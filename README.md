@@ -35,13 +35,19 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=tokyonight)
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Total Stars](https://img.shields.io/badge/Total%20Stars-10-blueviolet?style=flat)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SONAL-THAKUR163&theme=github_dark"/>
+</p>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SONAL-THAKUR163&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SONAL-THAKUR163&theme=github_dark"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SONAL-THAKUR163&theme=github-dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SONAL-THAKUR163&theme=github_dark"/>
+</p>
 
 ## 🌐 Connect With Me
 
