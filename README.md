@@ -35,13 +35,13 @@
 </p>
 
 ---
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=github_dark)
 
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-10-blueviolet?style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SONAL-THAKUR163&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SONAL-THAKUR163&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SONAL-THAKUR163&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=SONAL-THAKUR163&theme=github-dark)
 
 ## 🌐 Connect With Me
 
