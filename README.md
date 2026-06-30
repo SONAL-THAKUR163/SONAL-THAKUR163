@@ -35,17 +35,13 @@
 </p>
 
 ---
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=radical)
 
-# 📊 GitHub Stats
-
-![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONAL-THAKUR163&show_icons=true&theme=radical&cache_seconds=60)
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-10-blueviolet?style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Thakur163&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SONAL-THAKUR163&layout=compact&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sonal-Thakur163&theme=tokyonight)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=SONAL-THAKUR163&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
